@@ -1,6 +1,6 @@
 ## Exploratory Data Analysis
-## Course Project 1
-## Author : Jin-Hoon An
+### Course Project 1
+### Author : Jin-Hoon An
 
 This is my repository for the Coursera Course "Exploratory Data Analysis".
 
